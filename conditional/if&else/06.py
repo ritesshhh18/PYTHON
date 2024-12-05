@@ -1,0 +1,13 @@
+# a=int(input('enter the first number:'))
+# b=int(input('enter the second number:'))
+# print("\tarea of square is",  a*a,"\n\tperimeter of square is", 4*a )
+# print("\tarea of rectangle is",a*b, "\n\tperimeter of rectangle is", 2*(a+b))
+# print("\tarea of circle is",  3.14*a*a,  "\n\tperimeter of circle is",2*3.14*a)
+
+length=int(input("enter the lenght number"))
+breadth=int(input("enter the breadth number"))
+radius=int(input("enter the radius number"))
+side=int(input("enter the side of square"))
+print("area of square is",side*side,"\nperimeter of square is",4*side)
+print("area of rectangle is",length*breadth,"\nperimeter of rectangle is",2*(length+breadth))
+print("area of circle is",3.14*radius*radius,"\nperimeter of circle is",2*3.14*radius)

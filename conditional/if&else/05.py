@@ -1,0 +1,7 @@
+a=int(input("enter the fisrt no:"))
+b=int(input("enter the sec no:"))
+print(a+b,'sum')
+print(a-b,'sub')
+print(a*b,'mul')
+print(a/b,'div')
+print(a//b,'flow div')
